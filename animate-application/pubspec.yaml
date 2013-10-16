@@ -1,0 +1,9 @@
+name: animate_application
+version: 0.0.1
+description: A sample web application
+dependencies:
+  animate_core:
+    path: ../../animate-gui/animate_core
+  animate_gui:
+    path: ../../animate-gui/animate_gui
+  browser: any
